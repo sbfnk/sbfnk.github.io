@@ -3,9 +3,9 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-	border-bottom: 4px solid $clemson-purple;
+    border-bottom: 4px solid #000000;
     min-height: 56px;
-    background: $clemson-orange;
+    background: #000000;
     // Positioning context for the mobile navigation icon
     position: relative;
 
@@ -87,18 +87,18 @@ color: #522d80;
 }
 
 .site-nav .sub-menu a:hover {
-	color: $clemson-orange;
+	color: #000000;
 }
 .site-nav  .sub-menu {
 	background: #ffffff;
-	border-color: $clemson-purple;
+	border-color: #000000;
 	min-width: 265px;
 
 	z-index:2147483647;
 }
 .site-nav .sub-menu li.current-menu-item > a {
-	border-left-color: $clemson-orange;
-	border-right-color: $clemson-orange;
+	border-left-color: #000000;
+	border-right-color: #000000;
 	border-right: 0px;
 
 }
@@ -157,7 +157,7 @@ z-index:999;
 
     .page-link {
         color: #ffffff;
-    background: $clemson-orange;
+    background: #000000;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
