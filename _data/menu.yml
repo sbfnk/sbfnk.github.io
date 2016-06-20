@@ -1,5 +1,8 @@
-- title: "Research"
+- title: "home"
+  href: "/"
+
+- title: "research"
   href: "/research/"
 
-- title: "Publications"
+- title: "publications"
   href: "/publications/"

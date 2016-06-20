@@ -6,13 +6,6 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">email me</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -26,13 +19,17 @@
           </li>
           {% endif %}
         </ul>
+        <ul class="contact-list">
+          <li><a href="mailto:{{ site.email }}">email me</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
       </div>
 
       <div class="footer-col footer-col-3">
         <p class="text">
-		        London School of Hygiene & Tropical Medicine<br />
-		        Keppel St, London<br />
-            WC1E 7HT</p>
+</p>
         <!-- {{ site.description }} -->
       </div>
     </div>
