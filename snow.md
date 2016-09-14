@@ -22,9 +22,6 @@ corresponding to one case resulting in death</p>
 
 <object width="850" height="688">
   <param name="movie" value="http://www.youtube.com/v/5JbtHiFXbU0">
-  </param>
   <param name="allowFullScreen" value="true">
-  </param>
   <embed src="http://www.youtube.com/v/5JbtHiFXbU0&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="850" height="688">
-  </embed>
 </object>
