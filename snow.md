@@ -20,5 +20,4 @@ addition to his own investigations.</p>
 <p><img style="float:left;margin-right:5px;margin-top:4px" src="/images/red_dot.png">dot size
 corresponding to one case resulting in death</p>
 
-<iframe width="886" height="604" src="https://www.youtube.com/embed/JLw6hNxGPb8" frameborder="0" allowfullscreen></iframe>
-
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/5JbtHiFXbU0&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/5JbtHiFXbU0&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
