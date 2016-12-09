@@ -5,21 +5,21 @@ permalink: /publications/
 
 <p><strong>2016</strong>
 <p>
-<a href="http://biorxiv.org/content/early/2016/03/12/043265" title="Comparative analysis of dengue and Zika outbreaks reveals differences by setting and virus">Comparative analysis of dengue and Zika outbreaks reveals differences by setting and virus</a>.<br />
-Funk, S., Kucharski, A.J., Funk, S., Camacho, A., Eggo, R.M., Yakob, L. and Edmunds, W.J.<br />
-<em>bioRxiv</em> doi:http://dx.doi.org/10.1101/043265.<br />
-[<a href="/pubs/biorxiv_zika_funk.pdf" title="PDF">PDF</a>]<br />
+<a href="http://dx.doi.org/10.1371/journal.pntd.0005173" title="Comparative analysis of dengue and Zika outbreaks reveals differences by setting and virus">Comparative analysis of dengue and Zika outbreaks reveals differences by setting and virus</a>.<br />
+Funk, S., Kucharski, A.J., Funk, S., Camacho, A., Eggo, R.M., Yakob, L., Murray, L.M. and Edmunds, W.J.<br />
+<em>PLoS Neglected Tropical Diseases</em> 10(12): e0005173.<br />
+[<a href="/pubs/journal.pntd.0005173.pdf" title="PDF">PDF</a>]<br />
 </p>
 <p>
-<a href="http://biorxiv.org/content/early/2016/02/07/038588" title="Transmission dynamics of Zika virus in island populations: a modelling analysis of the 2013-14 French Polynesia outbreak">Transmission dynamics of Zika virus in island populations: a modelling analysis of the 2013-14 French Polynesia outbreak</a>.<br />
+<a href="http://dx.doi.org/10.1371/journal.pntd.0004726" title="Transmission dynamics of Zika virus in island populations: a modelling analysis of the 2013-14 French Polynesia outbreak">Transmission dynamics of Zika virus in island populations: a modelling analysis of the 2013-14 French Polynesia outbreak</a>.<br />
 Kucharski, A.J., Funk, S., Eggo, R.M., Mallet, H.P., Edmunds, W.J. and Nilles, E.J.<br />
-<em>bioRxiv</em> doi:http://dx.doi.org/10.1101/038588.<br />
-[<a href="/pubs/biorxiv_zika_kucharski.pdf" title="PDF">PDF</a>]<br />
+<em>PLoS Neglected Tropical Diseases</em> 10(5): e0004726.<br />
+[<a href="/pubs/journal.pntd.004726.pdf" title="PDF">PDF</a>]<br />
 </p>
 <p>
 <a href="http://dx.doi.org/10.3201/eid2201.151410" title="Effectiveness of Ring Vaccination as Control Strategy for Ebola Virus Disease">Effectiveness of Ring Vaccination as Control Strategy for Ebola Virus Disease</a>.<br />
 Kucharski, A.J., Eggo, R.M., Watson, C.H., Camacho, A., Funk, S. and Edmunds, W.J.<br />
-<em>Emerging Infectious Diseases</em> 2016 Jan [date cited]. http://dx.doi.org/10.3201/eid2201.151410.<br />
+<em>Emerging Infectious Diseases</em> 22(1):105-108.<br />
 </p>
 <p><strong>2015</strong>
 <p>
