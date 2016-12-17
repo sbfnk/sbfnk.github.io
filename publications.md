@@ -5,6 +5,12 @@ permalink: /publications/
 
 <p><strong>2016</strong>
 <p>
+<a href="http://dx.doi.org/10.1016/j.epidem.2016.11.003" title="Real-time forecasting of infectious disease dynamics with a stochastic semi-mechanistic model">Real-time forecasting of infectious disease dynamics with a stochastic semi-mechanistic model</a>.<br />
+Funk, S., Camacho, A., Kucharski, A.J., Funk, S., Eggo, R.M., and Edmunds, W.J.<br />
+<em>Epidemics</em> in press.<br />
+<!-- [<a href="/pubs/journal.pntd.0005173.pdf" title="PDF">PDF</a>]<br /> -->
+</p>
+<p>
 <a href="http://dx.doi.org/10.1371/journal.pntd.0005173" title="Comparative analysis of dengue and Zika outbreaks reveals differences by setting and virus">Comparative analysis of dengue and Zika outbreaks reveals differences by setting and virus</a>.<br />
 Funk, S., Kucharski, A.J., Funk, S., Camacho, A., Eggo, R.M., Yakob, L., Murray, L.M. and Edmunds, W.J.<br />
 <em>PLoS Neglected Tropical Diseases</em> 10(12): e0005173.<br />
