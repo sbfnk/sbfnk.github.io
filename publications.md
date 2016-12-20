@@ -3,6 +3,12 @@ layout: page
 permalink: /publications/
 ---
 
+<p><strong>2017</strong>
+<p>
+<a href="https://wwwnc.cdc.gov/eid/article/23/1/16-0487_article" title="Mathematical Modeling of Programmatic Requirements for Yaws Eradication">Mathematical Modeling of Programmatic Requirements for Yaws Eradication</a>.<br />
+Marks, M., Mitjà, Fitzpatrick, C., Asiedu, K., Solomon, A.W., Mabey, D.C.W. and Funk, S.<br />
+<em>Emerging Infectious Diseases</em> 23(1):22-28.<br />
+</p>
 <p><strong>2016</strong>
 <p>
 <a href="http://dx.doi.org/10.1016/j.epidem.2016.11.003" title="Real-time forecasting of infectious disease dynamics with a stochastic semi-mechanistic model">Real-time forecasting of infectious disease dynamics with a stochastic semi-mechanistic model</a>.<br />
@@ -13,13 +19,13 @@ Funk, S., Camacho, A., Kucharski, A.J., Funk, S., Eggo, R.M., and Edmunds, W.J.<
 <p>
 <a href="http://dx.doi.org/10.1371/journal.pntd.0005173" title="Comparative analysis of dengue and Zika outbreaks reveals differences by setting and virus">Comparative analysis of dengue and Zika outbreaks reveals differences by setting and virus</a>.<br />
 Funk, S., Kucharski, A.J., Funk, S., Camacho, A., Eggo, R.M., Yakob, L., Murray, L.M. and Edmunds, W.J.<br />
-<em>PLoS Neglected Tropical Diseases</em> 10(12): e0005173.<br />
+<em>PLoS Neglected Tropical Diseases</em> 10(12):e0005173.<br />
 [<a href="/pubs/journal.pntd.0005173.pdf" title="PDF">PDF</a>]<br />
 </p>
 <p>
 <a href="http://dx.doi.org/10.1371/journal.pntd.0004726" title="Transmission dynamics of Zika virus in island populations: a modelling analysis of the 2013-14 French Polynesia outbreak">Transmission dynamics of Zika virus in island populations: a modelling analysis of the 2013-14 French Polynesia outbreak</a>.<br />
 Kucharski, A.J., Funk, S., Eggo, R.M., Mallet, H.P., Edmunds, W.J. and Nilles, E.J.<br />
-<em>PLoS Neglected Tropical Diseases</em> 10(5): e0004726.<br />
+<em>PLoS Neglected Tropical Diseases</em> 10(5):e0004726.<br />
 [<a href="/pubs/journal.pntd.004726.pdf" title="PDF">PDF</a>]<br />
 </p>
 <p>
