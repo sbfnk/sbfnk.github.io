@@ -11,6 +11,12 @@ Marks, M., Mitjà, Fitzpatrick, C., Asiedu, K., Solomon, A.W., Mabey, D.C.W. and
 </p>
 <p><strong>2016</strong>
 <p>
+<a href="http://dx.doi.org/10.1016/j.vaccine.2016.12.019" title="Real-time dynamic modelling for the design of a cluster-randomized phase 3 Ebola vaccine trial in Sierra Leone">Real-time dynamic modelling for the design of a cluster-randomized phase 3 Ebola vaccine trial in Sierra Leone</a>.<br />
+Camacho, A., Eggo, R.M., Goeyvaerts, N., Vandebosch, A., Mogg, R., Funk, S., Kucharski, A.J., Watson, C.H., Vangeneugden, T., Edmunds, W.J.
+<em>Vaccine</em> in press.<br />
+[<a href="/pubs/camacho_vaccine_16.pdf" title="PDF">PDF</a>]<br />
+</p>
+<p>
 <a href="http://dx.doi.org/10.1016/j.epidem.2016.11.003" title="Real-time forecasting of infectious disease dynamics with a stochastic semi-mechanistic model">Real-time forecasting of infectious disease dynamics with a stochastic semi-mechanistic model</a>.<br />
 Funk, S., Camacho, A., Kucharski, A.J., Funk, S., Eggo, R.M., and Edmunds, W.J.<br />
 <em>Epidemics</em> in press.<br />
