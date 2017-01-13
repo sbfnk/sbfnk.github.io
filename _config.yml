@@ -20,3 +20,33 @@ scholar_profile: yOo8u2gAAAAJ
 markdown: kramdown
 
 google_analytics: UA-79628714-1
+
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: year, month
+  order: ascending
+
+  group_by: none
+  group_order: ascending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  repository: pubs
+
+  use_raw_bibtex_entry: true
+  bibtex_filters:
+  - superscript
+  - latex
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
