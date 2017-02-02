@@ -19,6 +19,10 @@ scholar_profile: yOo8u2gAAAAJ
 # Build settings
 markdown: kramdown
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
 google_analytics: UA-79628714-1
 
 scholar:
