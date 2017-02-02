@@ -1,0 +1,44 @@
+---
+---
+
+{% if entry.url %}
+<a href="{{entry.url}}" title="{{entry.title}}">
+{% endif %}
+{{entry.title}}{% if entry.url %}</a>{% endif %}.<br/>
+
+{% for author in entry.author_array %}
+{{author.first | split: ' ' | map: 0 | join: '. '}}.
+{% if author.prefix %}
+ {{author.prefix}}
+{% endif %}
+ {{author.last}}{% if author == entry.author_array.last %}.{% else %},{% endif %}
+{% endfor %}
+<br/>
+
+{% if type == "article" %}
+<i>{{entry.journal}}</i> {% if entry.volume %}{{entry.volume}}{% if entry.number %}({{entry.number}}){% endif %}{% if entry.pages %}:{{entry.pages}}{% endif %}.{% endif %}
+{% elsif type == "incollection" %}
+<i>In:</i>
+{% for author in entry.editor_array %}
+{{author.first | split: ' ' | map: 0 | join: '. '}}.
+{% if author.prefix %}
+ {{author.prefix}}
+{% endif %}
+ {{author.last}}{% if author == entry.editor_array.last %}:{% else %},{% endif %}
+{% endfor %}
+{{ entry.booktitle }}, {{ entry.publisher }}, pp. {{ entry.pages }}.
+{% endif %}
+
+{% if links.pdf %}
+<br />[<a href="{{links.pdf}}" title="PDF">PDF</a>]
+{% endif %}
+{% if links['correction.pdf'] %}
+[<a href="{{links['correction.pdf']}}" title="Correction">{%if entry.correction %}Corrected {{entry.correction}}{% else %}Correction{% endif %}</a>]
+{% endif %}
+{% if entry.link %}
+[<a href="{{entry.link}}" title="{{entry.linktext}}">{{entry.linktext}}</a>]
+{% endif %}
+
+{% if entry.author contains "*" %}
+<br/>*: equal contribution
+{% endif %}

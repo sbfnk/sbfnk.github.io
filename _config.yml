@@ -22,18 +22,18 @@ markdown: kramdown
 google_analytics: UA-79628714-1
 
 scholar:
-  style: apa
+  style: biometrics
   locale: en
 
   sort_by: year, month
-  order: ascending
+  order: descending
 
-  group_by: none
-  group_order: ascending
+  group_by: year
+  group_order: descending
 
   source: ./_bibliography
   bibliography: references.bib
-  bibliography_template: "{{reference}}"
+  bibliography_template: bib
 
   replace_strings: true
   join_strings:    true
@@ -48,5 +48,7 @@ scholar:
   details_dir:    bibliography
   details_layout: bibtex.html
   details_link:   Details
+
+  bibliography_item_tag: 'p'
 
   query: "@*"
