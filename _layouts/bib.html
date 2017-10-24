@@ -7,7 +7,9 @@
 {{entry.title}}{% if entry.url %}</a>{% endif %}.<br/>
 
 {% for author in entry.author_array %}
+{% if author.first != "" %}
 {{author.first | split: ' ' | map: 0 | join: '. '}}.
+{% endif %}
 {% if author.prefix %}
  {{author.prefix}}
 {% endif %}
