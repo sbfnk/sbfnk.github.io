@@ -1,2 +1,5 @@
 _site
 .sass-cache
+_bibliography/*.bib.bak
+_bibliography/*.bib.sav
+_bibliography/auto
