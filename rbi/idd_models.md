@@ -3,6 +3,7 @@
 ## Deterministic SIR model, observations of prevalence
 
 ```c
+
 model SIR_deterministic {
   const N = 1000; // population size
   const d_infection = 14; // duration of infection: 2 weeks
