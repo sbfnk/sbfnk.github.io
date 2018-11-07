@@ -3,4 +3,4 @@ layout: default
 permalink: /publications/
 ---
 
-{% bibliography -q @*[keywords != astrophysics && keywords != unpublished]%}
+{% bibliography -q @*[keywords != astrophysics] %}
