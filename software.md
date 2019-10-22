@@ -6,7 +6,7 @@ permalink: /software/
 <h3>Bayesian inference using state-space models with high-performance hardware</h3>
 <a href="https://cran.r-project.org/package=rbi" title="rbi">rbi</a> is an R wrapper for <a href="https://libbi.org" title="LibBi">LibBi</a>, or Library for Bayesian Inference. It performs fast Bayesian inference with parallelised Sequential Monte Carlo, on CPUs or GPUs.<br>
 
-<a href="http://github.com/sbfnk/rbi.helpers" title="rbi.helpers">rbi.helpers</a> is a supporting package for rbi, especially for plotting results.
+<a href="http://github.com/sbfnk/rbi.helpers" title="rbi.helpers">rbi.helpers</a> is a supporting package for rbi, especially for constructing proposal distributions and determining the number of particles.
 
 <p>
 <h3>Social contact patterns</h3>
