@@ -10,4 +10,6 @@ permalink: /software/
 
 <p>
 <h3>Social contact patterns</h3>
-<a href="http://github.com/sbfnk/socialmixr" title="socialmixr">socialmixr</a> is an R package to estimate contact matrices from diary data such as collected in the <a href="http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0050074" title="POLYMOD">POLYMOD</a> study
+<a href="http://github.com/sbfnk/socialmixr" title="socialmixr">socialmixr</a> is an R package to estimate contact matrices from diary data such as collected in the <a href="http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0050074" title="POLYMOD">POLYMOD</a> study.<br><br>
+
+<a href="http://github.com/sbfnk/epimxir" title="epimxir">epimxir</a> is an R package to conduct epidemiological analysis using these contact matrices.
